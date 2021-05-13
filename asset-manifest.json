@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/AssociateTracker/static/css/main.dcf0d53b.chunk.css",
+    "main.js": "/AssociateTracker/static/js/main.a4bd0225.chunk.js",
+    "main.js.map": "/AssociateTracker/static/js/main.a4bd0225.chunk.js.map",
+    "runtime-main.js": "/AssociateTracker/static/js/runtime-main.14ef2324.js",
+    "runtime-main.js.map": "/AssociateTracker/static/js/runtime-main.14ef2324.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/AssociateTracker/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.04a1dd2d.chunk.js": "/AssociateTracker/static/js/2.04a1dd2d.chunk.js",
+    "static/js/2.04a1dd2d.chunk.js.map": "/AssociateTracker/static/js/2.04a1dd2d.chunk.js.map",
+    "index.html": "/AssociateTracker/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/AssociateTracker/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.dcf0d53b.chunk.css.map": "/AssociateTracker/static/css/main.dcf0d53b.chunk.css.map",
+    "static/js/2.04a1dd2d.chunk.js.LICENSE.txt": "/AssociateTracker/static/js/2.04a1dd2d.chunk.js.LICENSE.txt",
+    "static/media/background01.f45d1144.jpeg": "/AssociateTracker/static/media/background01.f45d1144.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14ef2324.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.04a1dd2d.chunk.js",
+    "static/css/main.dcf0d53b.chunk.css",
+    "static/js/main.a4bd0225.chunk.js"
+  ]
+}
