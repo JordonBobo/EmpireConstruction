@@ -1,0 +1,34 @@
+.deathstar {
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.deathstar::after {
+  display: block;
+  position: absolute;
+  background: black;
+}
+
+.deathstar * {
+  z-index: 2;
+  position: relative;
+}
+
+.deathstar h1 {
+  color: orange;
+  text-shadow: 3px 3px black;
+}
+
+.deathstar h3 {
+  color: orange;
+  text-shadow: 2px 2px black;
+  padding-top: 180px;
+}
+
+.deathstar h1 {
+  font-size: 60px;
+  padding-top: 40px;
+  margin-top: 0;
+}
